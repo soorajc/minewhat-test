@@ -1,0 +1,5 @@
+# Testing git commit template
+
+# Cool way for handling commit message
+
+# Easy to backtrack
